@@ -130,13 +130,13 @@ Hint for the Cleaning process:
 
 5. Insert categories 'basic.9y','basic.6y','basic4y' into 'middle_school'
 
-6. Drop the pdays column
+6. Convert target variable into binary
 
-7. Convert target variable into binary
+7. Encode categorical features
 
-8. Encode ordinal features
+8. Scale your data
 
-9. Scale your data
+9. Feel free to select the features that you consider important for the model.
 
 **Step 4:**
 
