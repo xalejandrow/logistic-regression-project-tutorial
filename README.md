@@ -93,7 +93,7 @@ Important note: this output highly affects the output target (if duration = 0, t
 
 15. poutcome: outcome of the previous marketing campaign (categorical)
 
-Important note:  this attribute has three categories: 'failure', 'success' and 'non-existent'. 86% of the data falls into 'non-existent' category.
+Important note: this attribute has three categories: 'failure', 'success' and 'non-existent'. 86% of the data falls into 'non-existent' category.
 
 16. emp.var.rate: employment variation rate - quarterly indicator (numeric)
 
